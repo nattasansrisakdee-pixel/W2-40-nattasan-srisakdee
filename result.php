@@ -85,7 +85,6 @@
             $base = $_POST["base"];
             $height = $_POST["height"];
 
-            echo "<div class='output-text'>ชื่อรูปสามเหลี่ยม : <span class='highlight'>" . $triangle_name . "</span></div>";
             echo "<div class='output-text'>ความกว้างฐาน : <span class='highlight'>" . $base . " cm</span></div>";
             echo "<div class='output-text'>ความสูง : <span class='highlight'>" . $height . " cm</span></div>";
             
