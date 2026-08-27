@@ -79,7 +79,7 @@
 </head>
 <body>
     
-    <h1>งานที่2 สุธา BIT2/4 เลขที่41 😘</h1>
+    <h1>งานที่2 ณัฐสัญช์ BIT2/4 เลขที่40 </h1>
 
     <form action="result.php" method="post">
 
